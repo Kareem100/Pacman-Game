@@ -1,0 +1,47 @@
+
+PacmanAssets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pacman
+  rotate: false
+  xy: 1, 15
+  size: 225, 16
+  orig: 225, 16
+  offset: 0, 0
+  index: -1
+Inky
+  rotate: false
+  xy: 228, 15
+  size: 129, 16
+  orig: 129, 16
+  offset: 0, 0
+  index: -1
+Blinky
+  rotate: false
+  xy: 359, 15
+  size: 127, 16
+  orig: 127, 16
+  offset: 0, 0
+  index: -1
+Clyde
+  rotate: false
+  xy: 488, 17
+  size: 128, 14
+  orig: 128, 14
+  offset: 0, 0
+  index: -1
+Pinky
+  rotate: false
+  xy: 488, 1
+  size: 128, 14
+  orig: 128, 14
+  offset: 0, 0
+  index: -1
+Prizes
+  rotate: false
+  xy: 618, 16
+  size: 122, 15
+  orig: 122, 15
+  offset: 0, 0
+  index: -1
